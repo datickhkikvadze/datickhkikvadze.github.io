@@ -1,0 +1,213 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(161.15deg, #757575 12.73%, #050505 72.95%)fixed;
+}
+#cont{
+    width: 550px;
+    height: 700px;
+    border: 6px solid black;
+    background-color: rgb(48, 48, 48);
+}
+/* fun 1 */
+#addOne {
+  padding: 12px 26px;
+  border: 0;
+  font-size: 16px;
+  transition: all 150ms ease-in-out;
+
+  border-radius: 14px;
+  font-weight: 600;
+
+  color: #fff;
+  background-color: transparent;
+  background-image: radial-gradient(50% 115% at 50% -5%, rgba(255, 255, 255, 0.11) 0%, transparent 100%);
+  box-shadow: inset 0 0px 10px 0px rgba(255, 255, 255, 0.14), inset 0px 5px 10px 0px rgba(255, 255, 255, 0.11), inset 0px 2px 5px 0px rgba(255, 255, 255, 0.4), inset 0px 3px 20px 0px rgba(0, 0, 0, 0.25);
+}
+
+#addOne:hover {
+  background-color: rgba(255, 255, 255, 0.05);
+}
+
+#addOne:active {
+  transform: scale(.95);
+}
+/* fun 1 */
+/* fun 2 */
+#addTwo {
+    padding: 12px 26px;
+    border: 0;
+    font-size: 16px;
+    transition: all 150ms ease-in-out;
+  
+    border-radius: 14px;
+    font-weight: 600;
+  
+    color: #fff;
+    background-color: transparent;
+    background-image: radial-gradient(50% 115% at 50% -5%, rgba(255, 255, 255, 0.11) 0%, transparent 100%);
+    box-shadow: inset 0 0px 10px 0px rgba(255, 255, 255, 0.14), inset 0px 5px 10px 0px rgba(255, 255, 255, 0.11), inset 0px 2px 5px 0px rgba(255, 255, 255, 0.4), inset 0px 3px 20px 0px rgba(0, 0, 0, 0.25);
+  }
+  
+  #addTwo:hover {
+    background-color: rgba(255, 255, 255, 0.05);
+  }
+  
+  #addTwo:active {
+    transform: scale(.95);
+  }
+/* fun 2 */
+/* fun 3 */
+#addFour {
+    padding: 12px 26px;
+    border: 0;
+    font-size: 16px;
+    transition: all 150ms ease-in-out;
+  
+    border-radius: 14px;
+    font-weight: 600;
+  
+    color: #fff;
+    background-color: transparent;
+    background-image: radial-gradient(50% 115% at 50% -5%, rgba(255, 255, 255, 0.11) 0%, transparent 100%);
+    box-shadow: inset 0 0px 10px 0px rgba(255, 255, 255, 0.14), inset 0px 5px 10px 0px rgba(255, 255, 255, 0.11), inset 0px 2px 5px 0px rgba(255, 255, 255, 0.4), inset 0px 3px 20px 0px rgba(0, 0, 0, 0.25);
+  }
+  
+  #addFour:hover {
+    background-color: rgba(255, 255, 255, 0.05);
+  }
+  
+  #addFour:active {
+    transform: scale(.95);
+  }
+/* fun 3 */
+/* fun 4 */
+#minusOne {
+    padding: 12px 26px;
+    border: 0;
+    font-size: 16px;
+    transition: all 150ms ease-in-out;
+  
+    border-radius: 14px;
+    font-weight: 600;
+  
+    color: #fff;
+    background-color: transparent;
+    background-image: radial-gradient(50% 115% at 50% -5%, rgba(255, 255, 255, 0.11) 0%, transparent 100%);
+    box-shadow: inset 0 0px 10px 0px rgba(255, 255, 255, 0.14), inset 0px 5px 10px 0px rgba(255, 255, 255, 0.11), inset 0px 2px 5px 0px rgba(255, 255, 255, 0.4), inset 0px 3px 20px 0px rgba(0, 0, 0, 0.25);
+  }
+  
+  #minusOne:hover {
+    background-color: rgba(255, 255, 255, 0.05);
+  }
+  
+  #minusOne:active {
+    transform: scale(.95);
+  }
+/* fun 4 */
+/* fun 5 */
+#minusTwo {
+    padding: 12px 26px;
+    border: 0;
+    font-size: 16px;
+    transition: all 150ms ease-in-out;
+  
+    border-radius: 14px;
+    font-weight: 600;
+  
+    color: #fff;
+    background-color: transparent;
+    background-image: radial-gradient(50% 115% at 50% -5%, rgba(255, 255, 255, 0.11) 0%, transparent 100%);
+    box-shadow: inset 0 0px 10px 0px rgba(255, 255, 255, 0.14), inset 0px 5px 10px 0px rgba(255, 255, 255, 0.11), inset 0px 2px 5px 0px rgba(255, 255, 255, 0.4), inset 0px 3px 20px 0px rgba(0, 0, 0, 0.25);
+  }
+  
+  #minusTwo:hover {
+    background-color: rgba(255, 255, 255, 0.05);
+  }
+  
+  #minusTwo:active {
+    transform: scale(.95);
+  }
+/* fun 5 */
+/* fun 6 */
+#minusFour {
+padding: 12px 26px;
+border: 0;
+font-size: 16px;
+transition: all 150ms ease-in-out;
+border-radius: 14px;
+font-weight: 600;
+color: #fff;
+background-color: transparent;
+background-image: radial-gradient(50% 115% at 50% -5%, rgba(255, 255, 255, 0.11) 0%, transparent 100%);
+box-shadow: inset 0 0px 10px 0px rgba(255, 255, 255, 0.14), inset 0px 5px 10px 0px rgba(255, 255, 255, 0.11), inset 0px 2px 5px 0px rgba(255, 255, 255, 0.4), inset 0px 3px 20px 0px rgba(0, 0, 0, 0.25);
+}
+  
+#minusFour:hover {
+    background-color: rgba(255, 255, 255, 0.05);
+}
+  
+#minusFour:active {
+    transform: scale(.95);
+}
+/* fun 6 */
+/* fun 7 */
+#multiplyTwo {
+padding: 12px 26px;
+border: 0;
+font-size: 16px;
+transition: all 150ms ease-in-out;
+border-radius: 14px;
+font-weight: 600;
+color: #fff;
+background-color: transparent;
+background-image: radial-gradient(50% 115% at 50% -5%, rgba(255, 255, 255, 0.11) 0%, transparent 100%);
+box-shadow: inset 0 0px 10px 0px rgba(255, 255, 255, 0.14), inset 0px 5px 10px 0px rgba(255, 255, 255, 0.11), inset 0px 2px 5px 0px rgba(255, 255, 255, 0.4), inset 0px 3px 20px 0px rgba(0, 0, 0, 0.25);
+}  
+#multiplyTwo:hover {
+    background-color: rgba(255, 255, 255, 0.05);
+}      
+#multiplyTwo:active {
+   transform: scale(.95);
+}
+/* fun 7 */
+/* fun 8 */
+#devideTwo{
+padding: 12px 26px;
+border: 0;
+font-size: 16px;
+transition: all 150ms ease-in-out;
+border-radius: 14px;
+font-weight: 600;
+color: #fff;
+background-color: transparent;
+background-image: radial-gradient(50% 115% at 50% -5%, rgba(255, 255, 255, 0.11) 0%, transparent 100%);
+box-shadow: inset 0 0px 10px 0px rgba(255, 255, 255, 0.14), inset 0px 5px 10px 0px rgba(255, 255, 255, 0.11), inset 0px 2px 5px 0px rgba(255, 255, 255, 0.4), inset 0px 3px 20px 0px rgba(0, 0, 0, 0.25);
+}  
+#devideTwo:hover {
+    background-color: rgba(255, 255, 255, 0.05);
+}      
+#devideTwo:active {
+    transform: scale(.95);
+}
+/* fun 8 */
+/* fun 9 */
+#resset{
+padding: 12px 26px;
+border: 0;
+font-size: 16px;
+transition: all 150ms ease-in-out;
+border-radius: 14px;
+font-weight: 600;
+color: #fff;
+background-color: transparent;
+background-image: radial-gradient(50% 115% at 50% -5%, rgba(255, 255, 255, 0.11) 0%, transparent 100%);
+box-shadow: inset 0 0px 10px 0px rgba(255, 255, 255, 0.14), inset 0px 5px 10px 0px rgba(255, 255, 255, 0.11), inset 0px 2px 5px 0px rgba(255, 255, 255, 0.4), inset 0px 3px 20px 0px rgba(0, 0, 0, 0.25);
+}  
+#resset:hover {
+    background-color: rgba(255, 255, 255, 0.05);
+}      
+#resset:active {
+    transform: scale(.95);
+}
+/* fun 9 */
